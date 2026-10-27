@@ -1,9 +1,5 @@
 # Hallazgos de Usabilidad — CaféU (APE 4 Integral)
 
-> Identificación y priorización de los problemas observados durante la evaluación con dos usuarios externos, registrados en [`resultados.csv`](resultados.csv) y trazables a los antecedentes de la Fase 2.
-
----
-
 ## 1. Resumen de resultados
 
 | Indicador | Resultado |
@@ -32,7 +28,7 @@
 
 **Criterio de priorización:** severidad del daño potencial (pérdida de datos > fricción > estética), frecuencia de aparición en las sesiones y correspondencia con heurísticas de Nielsen.
 
-> **Trazabilidad con la Fase 2:** HI-01 ≡ H-02, HI-02 ≡ H-01, HI-03 ≡ S-02, HI-04 ≡ S-01 de [`../../docs/matriz_mejoras.md`](../../docs/matriz_mejoras.md). Los identificadores `HI-` corresponden a la numeración integral.
+> **Trazabilidad con la Fase 2:** HI-01 ≡ H-02, HI-02 ≡ H-01, HI-03 ≡ S-02, HI-04 ≡ S-01 de [`../../docs/matriz_mejoras.md`](../../docs/matriz_mejoras.md). Los identificadores `HI-` corresponden a la numeracisón integral.
 
 ---
 

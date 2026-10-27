@@ -1,8 +1,5 @@
 # Conclusiones — CaféU · APE 4 Integral
 
-> Tres conclusiones sobre **usabilidad y aprendizaje** derivadas de la evaluación integral con usuarios externos ([`pruebas/resultados.csv`](pruebas/resultados.csv)), la comparación entre versión inicial y corregida ([`iteracion/antes-despues.md`](iteracion/antes-despues.md)) y la aplicación de principios de Interacción Humano-Computador.
-
----
 
 ## Conclusión 1 — El rediseño integral validó el flujo completo de compra
 
