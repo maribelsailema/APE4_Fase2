@@ -1,0 +1,7 @@
+participante,tarea,cumplimiento,tiempo_segundos,dudas,errores,comentario,dificultad
+Bryan Ortiz,1,Sí,6,0,0,"Localizó la bebida en el menú y la agregó al pedido sin bloqueos; el flujo fue percibido como muy claro",Baja
+Bryan Ortiz,2,Sí,19,0,0,"Aplicó el filtro y editó cantidades sin bloqueos; sugirió incrementar el contraste del enlace + Seguir comprando",Baja
+Bryan Ortiz,3,Sí,5,0,0,"Llegó a la confirmación con el ticket #CU-104 sin dudas",Baja
+Mateo Morales,1,Sí,6,1,0,"Buscó el acceso al carrito en la esquina superior derecha antes de notar la barra flotante inferior; se recuperó de forma autónoma",Media
+Mateo Morales,2,Sí,7,1,0,"Dudó si presionar [-] con 1 unidad borraría el ítem de golpe; la duda detuvo la acción hasta comprender el control",Media
+Mateo Morales,3,Sí,5,0,0,"Confirmó el pedido y verificó la pantalla de éxito con el código #CU-104",Media
